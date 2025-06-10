@@ -44,8 +44,4 @@ Identifikasi sayuran secara manual di skala besar memakan waktu dan rentan kesal
 | Google Colab    | Lingkungan pengembangan berbasis cloud dengan dukungan GPU |
 | GitHub          | Repositori kode, dokumentasi, dan hasil eksperimen |
 
-## 🚀 Cara Menjalankan Proyek
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/vegetable-cnn-classification.git
-   cd vegetable-cnn-classification
+
