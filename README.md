@@ -44,4 +44,4 @@ Identifikasi sayuran secara manual di skala besar memakan waktu dan rentan kesal
 | Google Colab    | Lingkungan pengembangan berbasis cloud dengan dukungan GPU |
 | GitHub          | Repositori kode, dokumentasi, dan hasil eksperimen |
 
-
+Source Code: https://colab.research.google.com/drive/19peajCAn9-wkHs2uS9OOHpdYaCoVgRNG?usp=sharing
