@@ -25,7 +25,7 @@ Identifikasi sayuran secara manual di skala besar memakan waktu dan rentan kesal
 
 ## 📂 Dataset
 - **Nama:** Vegetable Image Dataset  
-- **Sumber:** [Kaggle - Vegetable Image Dataset](https://www.kaggle.com/datasets) *(Link sesuai dataset asli)*  
+- **Sumber:** https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 - **Total Gambar:** ±21.000  
 - **Pembagian Data:**
   - Training: 15.000 gambar (1.000 per kelas)
